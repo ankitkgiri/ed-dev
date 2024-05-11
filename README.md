@@ -1,1 +1,1 @@
-# Inital READ ME file
+# Initial READ ME file
